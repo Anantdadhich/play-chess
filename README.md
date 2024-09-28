@@ -1,1 +1,2 @@
-play chess platorm created with react and websockets for real time communication.
+-play chess platorm created with react and websockets for real time communication.
+-on deployment backend is not working but if you want to use it just clone the repo and play the game and learn how to built it 
